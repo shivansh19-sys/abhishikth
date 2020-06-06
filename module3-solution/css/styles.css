@@ -1,0 +1,10 @@
+.navbar .container-fluid{
+  background-color: darkgray;
+}
+.navbar-brand{
+  height: auto;
+  width: auto;
+  font-size: 30px;
+  position: relative;
+  left: 15px;
+}
