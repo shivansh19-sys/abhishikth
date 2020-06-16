@@ -10,6 +10,7 @@
         margin-bottom: 50px;
     }
 h2{
+  height: auto;
     position: relative;
     text-align: center;
     float: right;
